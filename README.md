@@ -1,14 +1,16 @@
-<H3> NAME : Silambarasan K </H3>
-<H3> REGISTER NO : 212221230101 </H3>
-<H3> EX.NO : 3 </H3>
-<H3> DATE : 06-03-2024 </H3>
-<H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks </H1>
 
-## Aim: 
+<H2 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks </H2>
+
+<H4> NAME : Silambarasan K </H4>
+<H4> REGISTER NO : 212221230101 </H4>
+<H4> EX.NO : 3 </H4>
+<H4> DATE : 06-03-2024 </H4>
+
+### Aim: 
 
 To construct a python program to implement approximate inference using Gibbs Sampling.</br>
 
-## Algorithm:
+### Algorithm:
 
 ### Step 1: Bayesian Network Definition and CPDs:<br>
 
@@ -48,7 +50,7 @@ To construct a python program to implement approximate inference using Gibbs Sam
 
 <ul><li>Print the calculated approximate probabilities for the specified query_variable.</li></ul>
 
-## Program:
+### Program:
 
 ```python
 
@@ -140,15 +142,13 @@ print(query_result)
 
 ```
 
-## Output:
+### Output:
 
-![img1](https://github.com/anto-richard/Ex-3--AAI/assets/93427534/76bd8af8-60e0-4587-9d92-94850f7bae15)
+<img src="https://github.com/anto-richard/Ex-3--AAI/assets/93427534/76bd8af8-60e0-4587-9d92-94850f7bae15" width="250" height="250">
+<img src="https://github.com/anto-richard/Ex-3--AAI/assets/93427534/b1ce5281-dc1c-44ed-8142-291bee3f8e8a" width="250" height="250">
+<img src="https://github.com/anto-richard/Ex-3--AAI/assets/93427534/c1921771-7bb8-423b-ae99-3a6842b63ff4" width="250" height="250">
 
-![img2](https://github.com/anto-richard/Ex-3--AAI/assets/93427534/b1ce5281-dc1c-44ed-8142-291bee3f8e8a)
-
-![img3](https://github.com/anto-richard/Ex-3--AAI/assets/93427534/c1921771-7bb8-423b-ae99-3a6842b63ff4)
-
-## Result:
+### Result:
 
 Thus, Gibb's Sampling( Approximate Inference method) is succuessfully implemented using python.
 
