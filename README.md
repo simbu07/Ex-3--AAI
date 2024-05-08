@@ -3,8 +3,7 @@
 
 <H4> NAME : Silambarasan K </H4>
 <H4> REGISTER NO : 212221230101 </H4>
-<H4> EX.NO : 3 </H4>
-<H4> DATE : 06-03-2024 </H4>
+<H4> DATE : 04/03/2024 </H4>
 
 ### Aim: 
 
