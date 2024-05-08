@@ -143,11 +143,12 @@ print(query_result)
 
 ### Output:
 
-<img src="https://github.com/anto-richard/Ex-3--AAI/assets/93427534/76bd8af8-60e0-4587-9d92-94850f7bae15" width="250" height="250">
+<img src="https://github.com/anto-richard/Ex-3--AAI/assets/93427534/76bd8af8-60e0-4587-9d92-94850f7bae15" >
+<br>
 
 <img src="https://github.com/anto-richard/Ex-3--AAI/assets/93427534/b1ce5281-dc1c-44ed-8142-291bee3f8e8a" width="250" height="250">
-
-<img src="https://github.com/anto-richard/Ex-3--AAI/assets/93427534/c1921771-7bb8-423b-ae99-3a6842b63ff4" width="250" height="250">
+<br>
+<img src="https://github.com/anto-richard/Ex-3--AAI/assets/93427534/c1921771-7bb8-423b-ae99-3a6842b63ff4" >
 
 ### Result:
 
